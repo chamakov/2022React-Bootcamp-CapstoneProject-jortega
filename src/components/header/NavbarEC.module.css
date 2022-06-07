@@ -1,0 +1,45 @@
+.navBar{
+    background-color: black;
+    height: 5vh;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cartIcon{
+    color: white;
+    font-size: 3vh;
+}
+
+.imgLogo{
+    height: 7vh;
+    align-items: left;
+    padding-left: 1vw;
+}
+
+.search{
+    margin-left: auto;
+}
+
+.shoppingCart{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.shoppingCartDiv{
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    column-gap: 0.8vw;
+    padding-right: 1vw;
+}
+
+.searchButton{
+    width: 3vw;
+    background-color: black;
+    color: white;
+}

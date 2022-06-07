@@ -1,0 +1,14 @@
+.footerPage{
+    background-color: black;
+    height: 10vh;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.footerText{
+    color: white;
+}
